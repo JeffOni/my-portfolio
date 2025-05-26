@@ -12,6 +12,7 @@
     "@react-three/drei": "^10.0.8",
     "@react-three/fiber": "^9.1.2",
     "@studio-freight/lenis": "^1.0.42",
+    "@tsparticles/engine": "^3.8.1",
     "@tsparticles/react": "^3.0.0",
     "@tsparticles/slim": "^3.8.1",
     "framer-motion": "^12.12.2",
