@@ -18,7 +18,7 @@ const HeroSection: React.FC = () => {
         {/* Contenido principal - envuelto en un contenedor con z-index alto */}
         <div className="relative z-10 flex flex-col items-center justify-center w-full px-4 gap-6">
             <h1 className="text-4xl sm:text-6xl font-bold gradient-text drop-shadow-lg">
-                Jefferson Alexis Pozo Bohorquez
+                Jefferson Alexis Pozo Bohórquez
             </h1>
             <motion.h2
                 className="text-xl sm:text-2xl font-semibold text-primary"

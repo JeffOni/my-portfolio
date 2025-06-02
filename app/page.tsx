@@ -2,6 +2,7 @@
 import React from "react";
 import useLenis from "./hooks/useLenis";
 import HeroSection from "./components/sections/HeroSection";
+import AboutSection from "./components/sections/AboutSection";
 
 export default function Home() {
   // Activa el smooth scrolling de Lenis en toda la página
@@ -11,6 +12,7 @@ export default function Home() {
     <main className="overflow-hidden">
       {/* Sección de héroe con imagen de fondo */}
       <HeroSection />
+      <AboutSection />
 
       {/* Sección de proyectos */}
 
